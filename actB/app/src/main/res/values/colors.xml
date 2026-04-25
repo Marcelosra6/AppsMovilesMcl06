@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_primary">#6750A4</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#EADDFF</color>
+    <color name="md_theme_onPrimaryContainer">#21005D</color>
+
+    <!-- Colores secundarios -->
+    <color name="md_theme_secondary">#625B71</color>
+    <!-- Morado grisáceo, complementa al primary -->
+
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <!-- Texto/iconos SOBRE el secondary → blanco -->
+
+    <color name="md_theme_secondaryContainer">#E8DEF8</color>
+    <!-- Versión suave del secondary -->
+
+    <color name="md_theme_onSecondaryContainer">#1D192B</color>
+    <!-- Texto/iconos SOBRE el secondaryContainer → casi negro -->
+
+    <!-- Superficie -->
+    <color name="md_theme_surface">#FEF7FF</color>
+    <!-- Fondo de cards, sheets, menús → blanco con toque lila -->
+
+    <color name="md_theme_onSurface">#1C1B1F</color>
+    <!-- Texto/iconos SOBRE la superficie → casi negro -->
+</resources>
