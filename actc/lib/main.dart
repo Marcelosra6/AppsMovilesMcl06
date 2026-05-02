@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 void main() => runApp(const PrimeraApp());
+
 class PrimeraApp extends StatelessWidget {
   const PrimeraApp({super.key});
   @override
